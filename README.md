@@ -6,3 +6,4 @@ I am a chinese old man who have worked in IT industry about 20 years. I work har
 I write down some sentences.
 
 # and mark this
+I think that i don't konw how to use github.
